@@ -53,7 +53,7 @@ If a community member engages in unacceptable behaviour, the community organiser
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a community organiser as soon as possible. [CONTACT_INFO_HERE].
+If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a community organiser as soon as possible. See section #9 for contact information.
 
 [LINK_TO_REPORTING_GUIDELINES]
 
@@ -71,11 +71,13 @@ This Code of Conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-[YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
+If you have any queries, complaints, or grievences, please contact the Ruby New Zealand Committee.
+
+Email president@ruby.nz, or private message one of the committee members on Slack. The current committee member list can be found [here](http://ruby.nz/#current-committee).
 
 ## 10. License and attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
