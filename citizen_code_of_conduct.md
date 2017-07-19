@@ -55,13 +55,13 @@ If a community member engages in unacceptable behaviour, the community organiser
 
 If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a community organiser as soon as possible. See section #9 for contact information.
 
-[LINK_TO_REPORTING_GUIDELINES]
+[REPORTING GUIDELINES](https://github.com/nzruby/policies/blob/master/reporting_guidelines.md)
 
 Additionally, community organisers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behaviour feel safe. In the context of in-person events, organisers will also provide escorts as desired by the person experiencing distress.
 
 ## 7. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the Ruby New Zealand Committee with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify the Ruby New Zealand Committee with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. Permanent decisions from the Commmittee (e.g. a permanent ban) must be made with a 2/3 majority, and are final.
 
 ## 8. Scope
 
